@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "id": "0",
+      "name": "Duy Anh",
+      "email": "bui0913291882@gmail.com",
+      "password": "duyanh123",
+      "confirmPassword": "duyanh123",
+      "onl": true,
+      "block": false,
+      "age": "18",
+      "phoneNumber": "0913291882",
+      "cart": [],
+      "buy": []
+    },
+    {
+      "id": "1",
+      "name": "Duy Anh Bui",
+      "email": "bui09143291882@gmail.com",
+      "password": "duyanh1231",
+      "confirmPassword": "duyanh1231",
+      "onl": false,
+      "block": false,
+      "age": "19",
+      "phoneNumber": "0913291884",
+      "cart": [],
+      "buy": []
+    },
+    {
+      "id": "2",
+      "name": "Duy Anh",
+      "email": "bui09132918822@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "onl": false,
+      "block": false,
+      "age": "018",
+      "phoneNumber": "973553661",
+      "cart": [],
+      "buy": []
+    },
+    {
+      "id": "3",
+      "name": "Phan Huy",
+      "email": "bui091329188222@gmail.com",
+      "password": "duy1",
+      "confirmPassword": "duy1",
+      "onl": true,
+      "block": false,
+      "age": "018",
+      "phoneNumber": "0889746664",
+      "cart": [],
+      "buy": []
+    },
+    {
+      "id": "4",
+      "name": "Phan Huy",
+      "email": "bui09132918@gmail.com",
+      "password": "111",
+      "confirmPassword": "111",
+      "onl": true,
+      "block": false,
+      "age": "018",
+      "phoneNumber": "09477474638",
+      "cart": [],
+      "buy": []
+    },
+    {
+      "id": "5",
+      "name": "Phan Huy",
+      "email": "bui0913291@gmail.com",
+      "password": "1",
+      "confirmPassword": "1",
+      "onl": true,
+      "block": false,
+      "age": "018",
+      "phoneNumber": "0455677544",
+      "cart": [],
+      "buy": []
+    }
+  ],
+  "products": [
+    {
+      "id": "0",
+      "name": "Xe máy Honda",
+      "image": "https://th.bing.com/th/id/R.565756b951241bf596473132505b81f0?rik=kET0hTUDQrLhAQ&riu=http%3a%2f%2fsonxechuyennghiep.vn%2fimages%2fthumbs%2f2015%2f10%2fson-xe-vision-2015-mau-den-nham-cuc-dep-303-slide-6.png&ehk=%2bwHC2JKi0oihV8ELzLE7fs6KlquCAStSaqIz6xeyffI%3d&risl=&pid=ImgRaw&r=0",
+      "quantity": 10,
+      "type": "trên 50cc",
+      "state": "mới",
+      "price": 50000,
+      "description": "Ngon vai ca nho"
+    },
+    {
+      "id": "1",
+      "name": "Way An Pha",
+      "image": "https://genk.mediacdn.vn/139269124445442048/2023/7/10/f1-copy-2-1-1688987703404-16889877038631420617000.jpg",
+      "quantity": 10,
+      "type": "trên 100cc",
+      "state": "cũ",
+      "price": 50000,
+      "description": "phong nhu an cuop"
+    },
+    {
+      "id": "2",
+      "name": "Xe máy Honda",
+      "image": "https://th.bing.com/th/id/OIP.-tEZVYJKZ5NKfQpDtkKesQHaEt?rs=1&pid=ImgDetMain",
+      "quantity": 20,
+      "type": "trên 100cc",
+      "state": "cũ",
+      "price": 60000,
+      "description": "hihi :))"
+    },
+    {
+      "id": "4",
+      "name": "Way An Pha",
+      "image": "https://genk.mediacdn.vn/139269124445442048/2023/7/10/f1-copy-2-1-1688987703404-16889877038631420617000.jpg",
+      "quantity": 10,
+      "type": "trên 100cc",
+      "state": "cũ",
+      "price": 50000,
+      "description": "phong nhu an cuop"
+    },
+    {
+      "id": "5",
+      "name": "Xe máy Honda",
+      "image": "https://th.bing.com/th/id/OIP.-tEZVYJKZ5NKfQpDtkKesQHaEt?rs=1&pid=ImgDetMain",
+      "quantity": 20,
+      "type": "trên 100cc",
+      "state": "cũ",
+      "price": 60000,
+      "description": "hihi :))"
+    },
+    {
+      "id": "6",
+      "name": "Xe máy Honda",
+      "image": "https://th.bing.com/th/id/OIP.EZXGAa4Mu_imZjv8CWBM_QHaEK?rs=1&pid=ImgDetMain",
+      "quantity": 10,
+      "type": "trên 50cc",
+      "state": "mới",
+      "price": 50000,
+      "description": "Ngon vai ca nho"
+    },
+    {
+      "id": "7",
+      "name": "Way An Pha",
+      "image": "https://genk.mediacdn.vn/139269124445442048/2023/7/10/f1-copy-2-1-1688987703404-16889877038631420617000.jpg",
+      "quantity": 10,
+      "type": "trên 100cc",
+      "state": "cũ",
+      "price": 50000,
+      "description": "phong nhu an cuop"
+    },
+    {
+      "id": "8",
+      "name": "Xe máy Honda",
+      "image": "https://th.bing.com/th/id/OIP.-tEZVYJKZ5NKfQpDtkKesQHaEt?rs=1&pid=ImgDetMain",
+      "quantity": 20,
+      "type": "trên 100cc",
+      "state": "cũ",
+      "price": 60000,
+      "description": "hihi :))"
+    }
+  ]
+}
